@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Vikas Kumar Singh</h1>
-<h3 align="center">Java Developer | SDE1 @ Trustt (formerly NovoPay)</h3>
+<h3 align="center">Java Developer | SDE @ Trustt (formerly NovoPay) | FinTech </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Java%20Backend%20Developer;Microservices%20Enthusiast;Distributed%20Systems%20Learner;Always%20Learning%20New%20Things!&center=true&width=500&height=50">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikas9dev&label=Profile%20views&color=0e75b6&style=flat" alt="vikas9dev" />
@@ -24,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working as an **SDE1 (Java Developer)** at **Trustt (formerly NovoPay)**
-- 🌱 I’m learning **Distributed Systems, Kubernetes, and System Design**
+- 🔭 Working as **SDE1 (Java Developer)** at **Trustt (formerly NovoPay)**
+- 🌱 Currently exploring **Distributed Systems, Kubernetes, and System Design**
 - 💬 Ask me about **Java, Spring Boot, Microservices, RabbitMQ**
 - ⚡ Fun fact: I automate everything I can 😄
 
@@ -48,8 +51,23 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas9dev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas9dev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas9dev&show_icons=true&theme=tokyonight" alt="vikas9dev GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas9dev&theme=tokyonight" alt="vikas9dev GitHub Streak" />
+</p>
+
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikas9dev&theme=tokyonight&row=1&no-frame=true&margin-w=30" alt="vikas9dev GitHub Trophies" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c45be63494059a132679629d764aa349a653a4510357dae6db55e7999c982c8a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616d69746769747a267468656d653d68696768636f6e747261737426686964655f626f726465723d66616c7365" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
@@ -62,4 +80,4 @@ Here are some ideas to get you started:
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas9dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas9dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas.dev.java@gmail.com)
