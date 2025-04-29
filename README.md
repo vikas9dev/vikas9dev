@@ -56,6 +56,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas9dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas9dev&theme=tokyonight" alt="vikas9dev GitHub Streak" />
 </p>
 
@@ -64,11 +68,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=vikas9dev&theme=tokyonight&row=1&no-frame=true&margin-w=30" alt="vikas9dev GitHub Trophies" />
 </p>
 -->
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/c45be63494059a132679629d764aa349a653a4510357dae6db55e7999c982c8a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616d69746769747a267468656d653d68696768636f6e747261737426686964655f626f726465723d66616c7365" alt="GitHub Contribution Graph" />
-</p>
-
 ---
 
 ### 🚀 DSA & Competitive Programming
