@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🔭 Working as **SDE1 (Java Developer)** at **Trustt (formerly NovoPay)**
-- 🌱 Currently exploring **Distributed Systems, Kubernetes, and System Design**
+- 🌱 Currently exploring **Distributed Systems, Kubernetes, System Design, and AWS**
 - 💬 Ask me about **Java, Spring Boot, Microservices, RabbitMQ**
 - ⚡ Fun fact: I automate everything I can 😄
 
@@ -51,10 +51,11 @@ Here are some ideas to get you started:
 
 ### 🚀 DSA & Competitive Programming
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikas9dev/)
-&nbsp;
 [![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-informational?style=for-the-badge&logo=codeforces&logoColor=white&color=blue)](https://codolio.com/profile/vikas9dev)
+&nbsp;
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikas9dev/)
 
+![](https://leetcard.jacoblin.cool/vikas9dev?ext=heatmap)
 ---
 
 ### 📈 GitHub Stats
