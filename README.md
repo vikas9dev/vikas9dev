@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">Java Developer | SDE @ Trustt (formerly NovoPay) | FinTech </h3>
+<h3 align="center">SDE @ Trustt (formerly NovoPay) | FinTech | Java Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Java%20Backend%20Developer;Microservices%20Enthusiast;Distributed%20Systems%20Learner;Always%20Learning%20New%20Things!&center=true&width=500&height=50">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-- 🔭 Working as **SDE1 (Java Developer)** at **Trustt (formerly NovoPay)**
+- 🔭 Working as **SDE 1** at **Trustt (formerly NovoPay)**
 - 🌱 Currently exploring **Distributed Systems, Kubernetes, System Design, and AWS**
 - 💬 Ask me about **Java, Spring Boot, Microservices, RabbitMQ**
 - ⚡ Fun fact: I automate everything I can 😄
