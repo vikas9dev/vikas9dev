@@ -49,6 +49,14 @@ Here are some ideas to get you started:
 
 ---
 
+### 🚀 DSA & Competitive Programming
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikas9dev/)
+&nbsp;
+[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-informational?style=for-the-badge&logo=codeforces&logoColor=white&color=blue)](https://codolio.com/profile/vikas9dev)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -70,15 +78,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-### 🚀 DSA & Competitive Programming
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikas9dev/)
-&nbsp;
-[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-informational?style=for-the-badge&logo=codeforces&logoColor=white&color=blue)](https://codolio.com/profile/vikas9dev)
-
----
-
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas9dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas.dev.java@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas9dev@gmail.com)
