@@ -49,20 +49,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 DSA & Competitive Programming
-
-[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-informational?style=for-the-badge&logo=codeforces&logoColor=white&color=blue)](https://codolio.com/profile/vikas9dev)
-&nbsp;
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikas9dev/)
-
-![](https://leetcard.jacoblin.cool/vikas9dev?ext=heatmap)
----
-
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas9dev&show_icons=true&theme=tokyonight" alt="vikas9dev GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas9dev&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -77,6 +64,21 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=vikas9dev&theme=tokyonight&row=1&no-frame=true&margin-w=30" alt="vikas9dev GitHub Trophies" />
 </p>
 -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas9dev&show_icons=true&theme=tokyonight" alt="vikas9dev GitHub Stats" />
+</p> -->
+
+---
+
+### 🚀 DSA & Competitive Programming
+
+[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-informational?style=for-the-badge&logo=codeforces&logoColor=white&color=blue)](https://codolio.com/profile/vikas9dev)
+&nbsp;
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikas9dev/)
+
+![](https://leetcard.jacoblin.cool/vikas9dev?ext=heatmap)
+
 ---
 
 ### 📫 Contact Me
