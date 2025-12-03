@@ -23,14 +23,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=vikas9dev&label=Profile%20views&color=0e75b6&style=flat" alt="vikas9dev" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas9dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas9dev&theme=tokyonight" alt="vikas9dev GitHub Streak" />
 </p>
@@ -45,9 +37,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=vikas9dev&show_icons=true&theme=tokyonight" alt="vikas9dev GitHub Stats" />
 </p> -->
 
----
-
-### 📫 Contact
+📫 **Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas9dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas9dev+github@gmail.com)
