@@ -22,7 +22,7 @@ AI-powered tool that transforms Udemy course captions into well-structured markd
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/NoteSynth)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/NoteSynth)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/vikas9dev/notesynth)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge)](https://clever-liger-2e7c60.netlify.app/)
 
@@ -39,7 +39,7 @@ Comprehensive study notes and resources for AWS Certified Solutions Architect As
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/AWS_SAA-C03)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/AWS_SAA-C03)
 
 </div>
 
