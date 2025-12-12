@@ -49,7 +49,8 @@ Comprehensive study notes and resources for AWS Certified Solutions Architect As
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas9dev&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikas9dev&theme=tokyonight" alt="GitHub Streak" />
+
 
 ---
 
