@@ -33,7 +33,7 @@ AI-powered tool that transforms Udemy course captions into well-structured markd
 
 ### ☁️ [AWS SAA-C03](https://github.com/vikas9dev/AWS_SAA-C03)
 
-Comprehensive study notes and resources for AWS Certified Solutions Architect Associate (SAA-C03) exam. Generated using NoteSynth.
+Comprehensive study notes & resources for AWS Certified Solutions Architect Associate (SAA-C03). Generated using NoteSynth.
 
 **Content:** 32+ docs • Code examples • Well-Architected Framework
 
@@ -47,6 +47,19 @@ Comprehensive study notes and resources for AWS Certified Solutions Architect As
 </tr>
 </table>
 
+---
+
+## 🎓 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/aws-saa.png" width="120" alt="AWS SAA Badge" />
+  </a>
+</p>
+
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970)
+
+---
 <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikas9dev&theme=tokyonight" alt="GitHub Streak" />
@@ -62,3 +75,5 @@ Comprehensive study notes and resources for AWS Certified Solutions Architect As
 💼 **Open to collaboration on interesting projects!**
 
 </div>
+
+---
