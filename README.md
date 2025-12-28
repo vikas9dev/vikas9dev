@@ -51,23 +51,34 @@ Comprehensive study notes & resources for AWS Certified Solutions Architect Asso
 
 ## 🎓 Certifications
 
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/aws-saa.png" width="120" alt="AWS SAA Badge" />
+    <img src="./assets/aws-saa.png" width="130" alt="AWS Certified Solutions Architect – Associate" />
   </a>
 </p>
 
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970)
+<p align="center">
+  <strong>
+    <a href="https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970"
+       target="_blank" rel="noopener noreferrer">
+      AWS Certified Solutions Architect – Associate (SAA-C03)
+    </a>
+  </strong><br/>
+  Issued by Amazon Web Services (AWS)
+</p>
 
 ---
 <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikas9dev&theme=tokyonight" alt="GitHub Streak" />
 
+</div>
 
 ---
 
-**Connect**
+## 🔗 Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas9dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas9dev+github@gmail.com)
