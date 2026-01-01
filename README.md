@@ -31,7 +31,7 @@ AI-powered tool that transforms Udemy course captions into well-structured markd
 </td>
 <td valign="top" width="50%">
 
-### ☁️ [AWS SAA-C03](https://github.com/vikas9dev/AWS_SAA-C03)
+### ☁️ [AWS SAA-C03](https://github.com/vikas9dev/aws)
 
 Comprehensive study notes & resources for AWS Certified Solutions Architect Associate (SAA-C03). Generated using NoteSynth.
 
