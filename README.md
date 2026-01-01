@@ -88,3 +88,9 @@ Comprehensive study notes & resources for AWS Certified Solutions Architect Asso
 </div>
 
 ---
+
+**Resources** 
+
+🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[Java](https://github.com/vikas9dev/java) 🔹[DSA & Algorithms](https://github.com/vikas9dev/dsa-algo) 🔹[DevOps](https://github.com/vikas9dev/devops) 🔹[AWS](https://github.com/vikas9dev/AWS) 🔹[Microservices](https://github.com/vikas9dev/microservices)
+
+---
