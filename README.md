@@ -39,7 +39,7 @@ Comprehensive study notes & resources for AWS Certified Solutions Architect Asso
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/AWS_SAA-C03)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/aws)
 
 </div>
 
@@ -91,6 +91,6 @@ Comprehensive study notes & resources for AWS Certified Solutions Architect Asso
 
 **Resources** 
 
-🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[Java](https://github.com/vikas9dev/java) 🔹[DSA & Algorithms](https://github.com/vikas9dev/dsa-algo) 🔹[DevOps](https://github.com/vikas9dev/devops) 🔹[AWS](https://github.com/vikas9dev/AWS) 🔹[Microservices](https://github.com/vikas9dev/microservices)
+🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[Java](https://github.com/vikas9dev/java) 🔹[DSA & Algorithms](https://github.com/vikas9dev/dsa-algo) 🔹[DevOps](https://github.com/vikas9dev/devops) 🔹[AWS](https://github.com/vikas9dev/aws) 🔹[Microservices](https://github.com/vikas9dev/microservices)
 
 ---
