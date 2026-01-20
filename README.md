@@ -45,6 +45,45 @@ Comprehensive study notes & resources for AWS Certified Solutions Architect Asso
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🐳☁️ [docker-react](https://github.com/vikas9dev/docker-react)
+
+Single-container React app with a production CI/CD pipeline and AWS Elastic Beanstalk deployment using `Dockerrun.aws.json`.
+
+**Tech Stack:** React • Docker • GitHub Actions • AWS Elastic Beanstalk
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/docker-react)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/vikas9dev/docker-react/general)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/elasticbeanstalk/)
+
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### 🧩⚡ [multi-container-compute-hub](https://github.com/vikas9dev/multi-container-compute-hub)
+
+Multi-container microservices: Nginx router + React client + Express API + Worker, backed by RDS (Postgres) and ElastiCache (Redis). Deployed to Elastic Beanstalk via Docker Compose.
+
+**Tech Stack:** • AWS (Beanstalk, RDS, ElastiCache) • GitHub Actions • Docker Compose • React • Node/Express  
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/multi-container-compute-hub)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/vikas9dev/computehub-client)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![RDS](https://img.shields.io/badge/RDS%20Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://aws.amazon.com/rds/postgresql/)
+[![Redis](https://img.shields.io/badge/ElastiCache%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://aws.amazon.com/elasticache/)
+
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
