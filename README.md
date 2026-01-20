@@ -50,7 +50,7 @@ Comprehensive study notes & resources for AWS Certified Solutions Architect Asso
 
 ### 🐳☁️ [docker-react](https://github.com/vikas9dev/docker-react)
 
-Single-container React app with a production CI/CD pipeline and AWS Elastic Beanstalk deployment using `Dockerrun.aws.json`.
+Single-container React app with a production CI/CD pipeline and AWS Elastic Beanstalk deployment.
 
 **Tech Stack:** React • Docker • GitHub Actions • AWS Elastic Beanstalk
 
