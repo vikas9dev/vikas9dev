@@ -61,6 +61,7 @@ Comprehensive study notes & resources for AWS Certified Solutions Architect Asso
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/aws)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/vikas9dev/aws)
 
 </div>
 
