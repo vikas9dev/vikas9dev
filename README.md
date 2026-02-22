@@ -107,13 +107,13 @@ Single-container React app with a production CI/CD pipeline and AWS Elastic Bean
 </p>
 
 ---
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikas9dev&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
----
+--- -->
 
 ## 🔗 Connect
 
