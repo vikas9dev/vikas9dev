@@ -130,6 +130,6 @@ Single-container React app with a production CI/CD pipeline and AWS Elastic Bean
 
 **Resources** 
 
-🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[Java](https://github.com/vikas9dev/java) 🔹[DSA & Algorithms](https://github.com/vikas9dev/dsa-algo) 🔹[DevOps](https://github.com/vikas9dev/devops) 🔹[AWS](https://github.com/vikas9dev/aws) 🔹[Microservices](https://github.com/vikas9dev/microservices)
+🔹[AWS](https://github.com/vikas9dev/aws) 🔹[Vel](http://github.com/vikas9dev/velocity/)
 
 ---
