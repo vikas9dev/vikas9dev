@@ -1,135 +1,148 @@
-<!--
-**vikas9dev/vikas9dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  <!--
+  **vikas9dev/vikas9dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  -->
 
-<div align="center">
+  <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vikas9dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vikas9dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-## 🛠️ Featured Work
+  ## 🛠️  Featured Work
 
-</div>
+  </div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+  ---
 
-### 🤖 [NoteSynth](https://github.com/vikas9dev/NoteSynth)
+  ### 🤖 AI Tools
 
-AI-powered tool that transforms Udemy course captions into well-structured markdown notes using Google's Gemini API.
+  <table>
+  <tr>
+  <td valign="top" width="50%">
 
-**Tech Stack:** Next.js • TypeScript • Docker • Gemini API
+  ### ✨ [NoteSynth](https://github.com/vikas9dev/NoteSynth)
 
-<div align="left">
+  AI-powered tool that transforms Udemy course captions into well-structured markdown notes using Google's Gemini API.
 
-[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/NoteSynth)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/vikas9dev/notesynth)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge)](https://clever-liger-2e7c60.netlify.app/)
+  **Tech Stack:** Next.js • TypeScript • Docker • Gemini API
 
-</div>
+  <div align="left">
 
-</td>
-<td valign="top" width="50%">
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/NoteSynth)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/vikas9dev/notesynth)
+  [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge)](https://clever-liger-2e7c60.netlify.app/)
 
-### 🧩⚡ [ComputeHub | Multi-Container Hub](https://github.com/vikas9dev/multi-container-compute-hub)
+  </div>
 
-A high-performance microservices architecture orchestrating React, Express, and Worker services. Orchestrated with **Kubernetes (GKE)**, automated via **Skaffold**, and deployed through **GitHub Actions**. Features automated SSL (Cert-Manager) and persistent data volumes.
+  </td>
+  <td valign="top" width="50%">
 
-**Tech Stack:** • GKE (Kubernetes) • Docker • Skaffold • GitHub Actions • Ingress-Nginx • Postgres • Redis  
+  ### 📊 [ccusage](https://github.com/vikas9dev/ccusage)
 
-<div align="left">
+  Claude Code usage dashboard - beautifully visualize every token, cost, and project. Fully offline. No API key. No cloud. Just your data.
 
-[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/multi-container-compute-hub)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/vikas9dev)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+  **Tech Stack:** React • Python • Docker
 
-</div>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+  <div align="left">
 
-### ☁️ [AWS SAA-C03](https://github.com/vikas9dev/aws)
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/ccusage)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/vikas9dev/ccusage)
+                                                                                                                                                                                                                                                                                          
+  </div>
+                                                                                                                                                                                                                                                                                          
+  </td>                                                           
+  </tr>
+  </table>
 
-Comprehensive study notes & resources for AWS Certified Solutions Architect Associate (SAA-C03). Generated using NoteSynth.
+  ---                                                                                                                                                                                                                                                                                     
+   
+  ### ☁️  DevOps & Cloud                                                                                                                                                                                                                                                                   
+                                                                  
+  <table>
+  <tr>
+  <td valign="top" width="50%">
 
-**Content:** 32+ docs • Code examples • Well-Architected Framework
+  ### 🧩⚡ [ComputeHub | Multi-Container Hub](https://github.com/vikas9dev/multi-container-compute-hub)                                                                                                                                                                                   
+   
+  A high-performance microservices architecture orchestrating React, Express, and Worker services. Orchestrated with **Kubernetes (GKE)**, automated via **Skaffold**, and deployed through **GitHub Actions**. Features automated SSL (Cert-Manager) and persistent data volumes.        
+                                                                  
+  **Tech Stack:** GKE (Kubernetes) • Docker • Skaffold • GitHub Actions • Ingress-Nginx • Postgres • Redis                                                                                                                                                                                
+                                                                  
+  <div align="left">                                                                                                                                                                                                                                                                      
+                                                                  
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/multi-container-compute-hub) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/vikas9dev) [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)   [![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)    [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                          
+  </div>                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                          
+  </td>                                                           
+  <td valign="top" width="50%">
 
-<div align="left">
+  ### 🐳☁️  [docker-react](https://github.com/vikas9dev/docker-react)                                                                                                                                                                                                                      
+   
+  Single-container React app with a production CI/CD pipeline and AWS Elastic Beanstalk deployment.                                                                                                                                                                                       
+                                                                  
+  **Tech Stack:** React • Docker • GitHub Actions • AWS Elastic Beanstalk                                                                                                                                                                                                                 
+                                                                  
+  <div align="left">                                                                                                                                                                                                                                                                      
+                                                                  
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/docker-react)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/vikas9dev/docker-react/general) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/elasticbeanstalk/)                                                                                                                   
+                                                                                                                                                                                                                                                                                          
+  </div>                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                          
+  </td>                                                           
+  </tr>
+  <tr>
+  <td valign="top" width="50%">
+                                                                                                                                                                                                                                                                                          
+  ### ☁️  [AWS SAA-C03](https://github.com/vikas9dev/aws)                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                          
+  Comprehensive study notes & resources for AWS Certified Solutions Architect Associate (SAA-C03). Generated using NoteSynth.                                                                                                                                                             
+                                                                  
+  **Content:** 32+ docs • Code examples • Well-Architected Framework                                                                                                                                                                                                                      
+                                                                  
+  <div align="left">                                                                                                                                                                                                                                                                      
+                                                                  
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/aws)
+  [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/vikas9dev/aws)
+                                                                                                                                                                                                                                                                                          
+  </div>
+                                                                                                                                                                                                                                                                                          
+  </td>                                                           
+  <td valign="top" width="50%"></td>
+  </tr>                                                                                                                                                                                                                                                                                   
+  </table>
+                                                                                                                                                                                                                                                                                          
+  ---                                                             
 
-[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/aws)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/vikas9dev/aws)
+  ## 🎓 Certifications
 
-</div>
+  <p align="center">                                                                                                                                                                                                                                                                      
+    <a href="https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970" target="_blank" rel="noopener noreferrer">
+      <img src="./assets/aws-saa.png" width="130" alt="AWS Certified Solutions Architect – Associate" />                                                                                                                                                                                  
+    </a>                                                                                                                                                                                                                                                                                  
+  </p>                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                          
+  <p align="center">                                                                                                                                                                                                                                                                      
+    <strong>                                                      
+      <a href="https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970"
+         target="_blank" rel="noopener noreferrer">                                                                                                                                                                                                                                       
+        AWS Certified Solutions Architect – Associate (SAA-C03)
+      </a>                                                                                                                                                                                                                                                                                
+    </strong><br/>                                                
+    Issued by Amazon Web Services (AWS)                                                                                                                                                                                                                                                   
+  </p>
+                                                                                                                                                                                                                                                                                          
+  ---                                                             
 
-</td>
-<td valign="top" width="50%">
-  
-### 🐳☁️ [docker-react](https://github.com/vikas9dev/docker-react)
+  ## 🔗 Connect
 
-Single-container React app with a production CI/CD pipeline and AWS Elastic Beanstalk deployment.
+  <div align="center">                                                                                                                                                                                                                                                                    
+   
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas9dev/)                                                                                                                                                                 
+  💼 **Open to collaboration on interesting projects!**                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                          
+  </div>                                                                                                                                                                                                                                                                                  
+                                                                  
+  ---
 
-**Tech Stack:** React • Docker • GitHub Actions • AWS Elastic Beanstalk
+  **Resources**
 
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/docker-react)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/vikas9dev/docker-react/general)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/elasticbeanstalk/)
-
-</div>
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/aws-saa.png" width="130" alt="AWS Certified Solutions Architect – Associate" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>
-    <a href="https://www.credly.com/badges/398d8c82-ec2f-4e6c-803a-a0bd074fe970"
-       target="_blank" rel="noopener noreferrer">
-      AWS Certified Solutions Architect – Associate (SAA-C03)
-    </a>
-  </strong><br/>
-  Issued by Amazon Web Services (AWS)
-</p>
-
----
-<!-- <div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikas9dev&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
---- -->
-
-## 🔗 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas9dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas9dev+github@gmail.com)
-
-💼 **Open to collaboration on interesting projects!**
-
-</div>
-
----
-
-**Resources** 
-
-🔹[AWS](https://github.com/vikas9dev/aws) 🔹[Vel](http://github.com/vikas9dev/velocity/)
-
----
+  🔹[AWS](https://github.com/vikas9dev/aws) 🔹[Vel](http://github.com/vikas9dev/velocity/) 
