@@ -50,6 +50,26 @@
                                                                                                                                                                                                                                                                                           
   </td>                                                           
   </tr>
+  <tr>
+  <td valign="top" width="50%">
+
+  ### 🎯 [claude-job-hunt](https://github.com/vikas9dev/claude-job-hunt)
+
+  Claude Code skills for a software-engineering job search: find and score roles, research companies, tailor an ATS-safe resume, debrief interviews and compare offers — with a local tracker page. Your data stays private on your machine.
+
+  **Tech Stack:** Claude Code Skills • Python • MCP (JobSpy) • HTML/JS
+
+  <div align="left">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/claude-job-hunt)
+  [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/vikas9dev/claude-job-hunt#-skills)
+
+  </div>
+
+  </td>
+  <td valign="top" width="50%">
+  </td>
+  </tr>
   </table>
 
   ---                                                                                                                                                                                                                                                                                     
