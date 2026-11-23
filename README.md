@@ -220,4 +220,4 @@
 
   **Resources**
 
-  🔹[DSA](https://github.com/vikas9dev/dsa-algo) 🔹[Java & Spring Boot](https://github.com/vikas9dev/java) 🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[AWS](https://github.com/vikas9dev/aws)
+  🔹[DSA](https://github.com/vikas9dev/dsa-algo) 🔹[Java & Spring Boot](https://github.com/vikas9dev/java) 🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[AWS](https://github.com/vikas9dev/aws) 🔹[Vel](http://github.com/vikas9dev/velocity/)
