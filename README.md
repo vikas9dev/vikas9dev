@@ -74,80 +74,6 @@
 
   ---                                                                                                                                                                                                                                                                                     
    
-  ### 📚 Interview Prep Notes
-
-  Free, plain-English notes for backend interviews. Every note is ranked by how often the topic is asked (🔥🔥 / 🔥 / ⚡ / 💤).
-
-  <table>
-  <tr>
-  <td valign="top" width="50%">
-
-  ### 🧮 [DSA in Java](https://github.com/vikas9dev/dsa-algo)
-
-  Data structures & algorithms for coding interviews: patterns, dry runs and LeetCode / GeeksforGeeks solutions in Java.
-
-  **Content:** 39 notes • Arrays → DP, Graphs, Tries • Pattern guides
-
-  <div align="left">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/dsa-algo) [![Stars](https://img.shields.io/github/stars/vikas9dev/dsa-algo?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/dsa-algo/stargazers)
-
-  </div>
-
-  </td>
-  <td valign="top" width="50%">
-
-  ### ☕ [Java & Spring Boot](https://github.com/vikas9dev/java)
-
-  Java backend interview questions with full answers: Core Java, collections, multithreading, Java 8, Spring Boot, JPA, security, microservices.
-
-  **Content:** 336 notes • Q&A banks • GoF design patterns • Java tutorial
-
-  <div align="left">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/java) [![Stars](https://img.shields.io/github/stars/vikas9dev/java?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/java/stargazers)
-
-  </div>
-
-  </td>
-  </tr>
-  <tr>
-  <td valign="top" width="50%">
-
-  ### 🏗️ [System Design](https://github.com/vikas9dev/system-design)
-
-  HLD and LLD interview notes: databases, Redis, Kafka, REST, distributed systems, case studies, full designs and machine coding.
-
-  **Content:** 59 notes • Alex Xu Vol 1 & 2 chapter notes • LLD problems
-
-  <div align="left">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/system-design) [![Stars](https://img.shields.io/github/stars/vikas9dev/system-design?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/system-design/stargazers)
-
-  </div>
-
-  </td>
-  <td valign="top" width="50%">
-
-  ### ☁️ [AWS](https://github.com/vikas9dev/aws)
-
-  AWS for system-design interviews (`system_design` branch) and full AWS SAA-C03 exam notes (`main` branch).
-
-  **Content:** SAA-C03 notes • AWS for HLD rounds • Limits checked against AWS docs
-
-  <div align="left">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/aws/tree/system_design) [![Stars](https://img.shields.io/github/stars/vikas9dev/aws?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/aws/stargazers)
-
-  </div>
-
-  </td>
-  </tr>
-  </table>
-
-  ---
-
-
   ### ☁️  DevOps & Cloud                                                                                                                                                                                                                                                                   
                                                                   
   <table>
@@ -187,6 +113,80 @@
                                                                                                                                                                                                                                                                                           
   ---                                                             
 
+
+  ### 📚 Interview Prep Notes
+
+  Free, plain-English notes for backend interviews. Every note is ranked by how often the topic is asked (🔥🔥 / 🔥 / ⚡ / 💤).
+
+  <table>
+  <tr>
+  <td valign="top" width="50%">
+
+  ### ☁️ [AWS](https://github.com/vikas9dev/aws)
+
+  AWS for system-design interviews (`system_design` branch) and full AWS SAA-C03 exam notes (`main` branch).
+
+  **Content:** SAA-C03 notes • AWS for HLD rounds • Limits checked against AWS docs
+
+  <div align="left">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/aws/tree/system_design) [![Stars](https://img.shields.io/github/stars/vikas9dev/aws?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/aws/stargazers)
+
+  </div>
+
+  </td>
+  <td valign="top" width="50%">
+
+  ### 🧮 [DSA](https://github.com/vikas9dev/dsa-algo)
+
+  Data structures & algorithms for coding interviews: patterns, dry runs and LeetCode / GeeksforGeeks solutions in Java.
+
+  **Content:** 39 notes • Arrays → DP, Graphs, Tries • Pattern guides
+
+  <div align="left">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/dsa-algo) [![Stars](https://img.shields.io/github/stars/vikas9dev/dsa-algo?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/dsa-algo/stargazers)
+
+  </div>
+
+  </td>
+  </tr>
+  <tr>
+  <td valign="top" width="50%">
+
+  ### ☕ [Java & Spring Boot](https://github.com/vikas9dev/java)
+
+  Java backend interview questions with full answers: Core Java, collections, multithreading, Java 8, Spring Boot, JPA, security, microservices.
+
+  **Content:** 336 notes • Q&A banks • GoF design patterns • Java tutorial
+
+  <div align="left">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/java) [![Stars](https://img.shields.io/github/stars/vikas9dev/java?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/java/stargazers)
+
+  </div>
+
+  </td>
+  <td valign="top" width="50%">
+
+  ### 🏗️ [System Design](https://github.com/vikas9dev/system-design)
+
+  HLD and LLD interview notes: databases, Redis, Kafka, REST, distributed systems, case studies, full designs and machine coding.
+
+  **Content:** 59 notes • Alex Xu Vol 1 & 2 chapter notes • LLD problems
+
+  <div align="left">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/system-design) [![Stars](https://img.shields.io/github/stars/vikas9dev/system-design?style=for-the-badge&color=f5c518)](https://github.com/vikas9dev/system-design/stargazers)
+
+  </div>
+
+  </td>
+  </tr>
+  </table>
+
+  ---
+
   ## 🎓 Certifications
 
   <p align="center">                                                                                                                                                                                                                                                                      
@@ -220,4 +220,4 @@
 
   **Resources**
 
-  🔹[DSA in Java](https://github.com/vikas9dev/dsa-algo) 🔹[Java & Spring Boot](https://github.com/vikas9dev/java) 🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[AWS](https://github.com/vikas9dev/aws)
+  🔹[DSA](https://github.com/vikas9dev/dsa-algo) 🔹[Java & Spring Boot](https://github.com/vikas9dev/java) 🔹[System Design](https://github.com/vikas9dev/system-design) 🔹[AWS](https://github.com/vikas9dev/aws)
