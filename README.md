@@ -18,23 +18,6 @@
   <tr>
   <td valign="top" width="50%">
 
-  ### ✨ [NoteSynth](https://github.com/vikas9dev/NoteSynth)
-
-  AI-powered tool that transforms Udemy course captions into well-structured markdown notes using Google's Gemini API.
-
-  **Tech Stack:** Next.js • TypeScript • Docker • Gemini API
-
-  <div align="left">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/NoteSynth)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/vikas9dev/notesynth)
-  [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge)](https://clever-liger-2e7c60.netlify.app/)
-
-  </div>
-
-  </td>
-  <td valign="top" width="50%">
-
   ### 📊 [ccusage](https://github.com/vikas9dev/ccusage)
 
   Claude Code usage dashboard - beautifully visualize every token, cost, and project. Fully offline. No API key. No cloud. Just your data.
@@ -49,8 +32,6 @@
   </div>
                                                                                                                                                                                                                                                                                           
   </td>                                                           
-  </tr>
-  <tr>
   <td valign="top" width="50%">
 
   ### 🎯 [claude-job-hunt](https://github.com/vikas9dev/claude-job-hunt)
@@ -63,6 +44,25 @@
 
   [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/claude-job-hunt)
   [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/vikas9dev/claude-job-hunt#-skills)
+
+  </div>
+
+  </td>
+  </tr>
+  <tr>
+  <td valign="top" width="50%">
+
+  ### ✨ [NoteSynth](https://github.com/vikas9dev/NoteSynth)
+
+  AI-powered tool that transforms Udemy course captions into well-structured markdown notes using Google's Gemini API.
+
+  **Tech Stack:** Next.js • TypeScript • Docker • Gemini API
+
+  <div align="left">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas9dev/NoteSynth)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/vikas9dev/notesynth)
+  [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge)](https://clever-liger-2e7c60.netlify.app/)
 
   </div>
 
